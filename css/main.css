@@ -10,7 +10,7 @@ hr {
 }
 
 body {
-  background: #111;
+  background: #111 url(../images/bg.png) repeat;
   color: #aaa;
 }
 
